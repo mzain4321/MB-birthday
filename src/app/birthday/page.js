@@ -4,7 +4,7 @@ import Head from 'next/head';
 import { motion, AnimatePresence } from 'framer-motion';
 import Confetti from 'react-confetti';
 
-export default function BirthdayWish() {
+export default function Page() {
   const [isGiftOpen, setIsGiftOpen] = useState(false);
   const [showFireworks, setShowFireworks] = useState(false);
   const [windowSize, setWindowSize] = useState({
