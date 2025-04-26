@@ -13,9 +13,9 @@
     "fireworks-js": "^2.10.8",
     "framer-motion": "^12.9.2",
     "next": "15.3.1",
-    "react": "^19.0.0",
+    "react": "^18.3.1",
     "react-confetti": "^6.4.0",
-    "react-dom": "^19.0.0",
+    "react-dom": "^18.3.1",
     "react-spring": "^9.7.5",
     "react-use": "^17.6.0"
   },
